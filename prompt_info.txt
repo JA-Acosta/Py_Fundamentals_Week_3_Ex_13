@@ -1,0 +1,9 @@
+This is the twenty-second program derived from 100 program prompts suggested by ChatGPT for a 4 week python course.
+
+Prompt(s) Used:
+57. Write a program that asks the user for input and handles exceptions if the input is not a valid number.
+58. Implement a program that divides two numbers provided by the user and handles the ZeroDivisionError.
+60. Implement a program that catches multiple exceptions and handles them accordingly.
+61. Write a program that handles the ValueError when converting a string to an integer.
+62. Implement a program that raises a custom exception when a certain condition is not met.
+66. Implement a program that catches specific exceptions and ignores others.
